@@ -9,8 +9,9 @@ This is a Flask application that analyzes the claims made by health influencers 
 1. Clone the repository
    `git clone https://github.com/Yuji7805/Health-Influencer`
 2. Make venv with this command and activate it
-   `python -m venv venv`
-   `source venv/bin/activate`
+
+   - `python -m venv venv` make virtual environment
+   - `source venv/bin/activate` activate virtual environment
 
 3. Install the required packages using pip
    `pip install -r requirements.txt`
